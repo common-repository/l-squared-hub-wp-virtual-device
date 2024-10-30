@@ -1,0 +1,25 @@
+.lsnCarousel .carousel-inner > .item{text-align:center}
+.lsnCarousel .carousel-inner > .item > img, .lsnCarousel .carousel-inner > .item > iframe, .lsnCarousel .carousel-inner > .item > audio, .lsnCarousel .carousel-inner > .item > video{margin:auto;}
+.lsnCarousel .lsnCarouselCaptionText {position: absolute;width: 100%;top: 0;left: 0;}
+.lsnCarousel .audioIcon{color: #ccc;font-size: 200px;position: absolute;top: 50%;transform: translate(-50%, -50%);}
+.lsnCarouselAudioIcon{font-size: 6em;}
+
+
+
+/*.custom_header_slider{height:400px;}*/
+.lsnCarousel, .lsnCarousel div{height:100%}
+
+.lsnCarousel .item  img, .lsnCarousel .item  video{height:100%!important;}
+.disabledtab {pointer-events: none; opacity: .65;}
+#showdata > table > thead > tr > th{font-weight: 600; color: #666; font-family: Open Sans,sans-serif; font-size: 13px;}
+.tab-content{margin-top: 2%;}
+.primary-contact{background-color:#F1F2F7; padding: 14px; border-right: 3px solid #FEFEFE;}
+.primary-contact .heading{background-color: #e6e4e4; margin-bottom: 4px;}
+.primary-contact .heading  label{padding: 5px; margin-bottom: 0px !important;}
+.billing-address{background-color:#F1F2F7; padding: 14px;}
+.billing-address .heading{background-color: #e6e4e4; margin-bottom: 4px;}
+.billing-address .heading label{padding: 5px; margin-bottom: 0px !important;}
+.server-submit-btn {margin-top: 5px !important;}
+.custom-plugin-heading-inline{margin-bottom: 10px !important;}
+.error-msg {background-color: #ffeece !important;}
+.require-sign{color: #FE0302;}
